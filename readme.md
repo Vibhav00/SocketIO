@@ -11,3 +11,5 @@ This is a simple chat application demonstrating how to use **Socket.IO** with **
 - **Frontend (Android App)**: Kotlin, XML
 - **Backend (Server)**: Node.js, Express, Socket.IO
 - **WebSocket Protocol** for real-time communication.
+
+<img src="Screenshot_20250320_172035.png" width="50%">
